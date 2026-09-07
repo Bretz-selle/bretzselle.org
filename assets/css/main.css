@@ -258,7 +258,7 @@ em { font-style: italic; }
   border-radius: var(--radius);
   padding: 1.5rem 1.75rem;
   margin-bottom: 2rem;
-  max-width: 500px;
+  max-width: 1000px;
 }
 .hero-membership h3 {
   color: var(--yellow);
