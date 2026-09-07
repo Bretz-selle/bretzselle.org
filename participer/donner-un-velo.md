@@ -5,8 +5,9 @@ permalink: /participer/donner-un-velo/
 ---
 
 L'atelier Bretz'selle n'a pas besoin d'une alimentation variée: il se nourrit presque exlusivement de vieux vélos qui prennent la poussiere dans des caves.
+
 Si tu as un vélo inutilisé chez toi, si tu veux te debarasser d'une bicyclette sans pourtant la jeter dans une benne, fais un don et ramene-le à Bretz'selle. 
--> On peut même se déplacer de temps en temps pour vider des espaces communes! <-
+*On peut même se déplacer de temps en temps pour vider des espaces communes!*
 
 ## Notre filiére de recuperation vélos
 
