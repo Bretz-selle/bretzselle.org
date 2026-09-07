@@ -3,13 +3,13 @@ layout: page
 title: Adhérer
 permalink: /adherer/
 ---
-Ton vélo fait un petit bruit qui ressemble à un crrraack quand tu pédales, ou à un pssssssssshh qui semblerait ressortir de la roue arrière ?
+Ton vélo fait un petit bruit qui ressemble à un **CRRAACK** quand tu pédales, ou à un *PSSssshh* qui semblerait ressortir de la roue arrière ?
 
 Tu ne le sais pas encore, mais ta bicyclette le sait bien : tu as besoin d’adhérer à Bretz’selle !
 
-**Bretz’selle** est une association qui aide (depuis 15/16 ans) 2000 personnes par an à continuer à pédaler.
-**Bretz’selle** réduit les déchets, en ville, dans le quartier et dans ta cave.
-**Bretz’selle** est un lieu d’apprentissage, de partage et de rayonnage.
++ **Bretz’selle** est une association qui aide (depuis 15/16 ans) 2000 personnes par an à continuer à pédaler.
++ **Bretz’selle** réduit les déchets, en ville, dans le quartier et dans ta cave.
++ **Bretz’selle** est un lieu d’apprentissage, de partage et de rayonnage.
 
 Donc viens, répare toi-même ton vélo, tu sera fier⋅e de toi. Mais pour commencer adhère à Bretz’selle !
 
