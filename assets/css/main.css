@@ -229,7 +229,7 @@ em { font-style: italic; }
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(0, 0, 0, 0.72);
+  background: rgba(19, 72, 136, 0.78);
   pointer-events: none;
 }
 .hero-content { max-width: 1140px; position: relative; z-index: 1; }
