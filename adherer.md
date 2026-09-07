@@ -25,6 +25,8 @@ L'objectif est que tu deviennes autonome dans l'entretien de ton vélo : c'est t
 
 ## Comment adhérer
 
+L'adhésion coûte 35 € par année (de date à date). Une réduction à 20 € est prévue pour qui est étudiant(e), au chômage, titulaire de RSA, demandeur⋅euse d'asile politique, service civique (on te demandera un justificatif). L'atelier est aussi accessible aux mineurs qui ont déjà compli 12 ans : ils et elles payent 10 €, une autorisation parentale sera demandée. 
+
 Rends-toi directement à l'atelier pendant les permanences. L'adhésion se fait sur place.
 
 **Adresse** : 10, rue des Bouchers — 67000 Strasbourg
