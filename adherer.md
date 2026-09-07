@@ -29,4 +29,4 @@ Rends-toi directement à l'atelier pendant les permanences. L'adhésion se fait 
 
 **Adresse** : 10, rue des Bouchers — 67000 Strasbourg
 
-Retrouve les horaires des permanences sur la <page d'accueil>.
+Retrouve les horaires des permanences sur la [page d'accueil](/).
