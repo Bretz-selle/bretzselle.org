@@ -216,7 +216,7 @@ em { font-style: italic; }
    HERO
    ============================================= */
 .hero {
-  background-color: var(-dark);
+  background-color: var(--dark);
   background-image: url('/assets/img/sfondo2.jpg');
   background-size: cover;
   background-position: center;
@@ -229,7 +229,7 @@ em { font-style: italic; }
   content: '';
   position: absolute;
   inset: 0;
-  background: rgba(19, 72, 136, 0.78);
+  background: rgba(81, 19, 140, 0.85);
   pointer-events: none;
 }
 .hero-content { max-width: 1140px; position: relative; z-index: 1; }
