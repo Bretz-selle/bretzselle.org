@@ -217,7 +217,7 @@ em { font-style: italic; }
    ============================================= */
 .hero {
   background-color: var(--dark);
-  background-image: url('/assets/img/hero.jpg');
+  background-image: url('/assets/img/sfondo.jpg');
   background-size: cover;
   background-position: center;
   color: var(--white);
