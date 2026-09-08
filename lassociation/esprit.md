@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Bretz'sellitude&#xae;
+title: La Bretz'sellitude;
 permalink: /lassociation/La_Bretzsellitude/
 ---
 
