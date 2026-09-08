@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La Bretz'sellitude&#xae;
-permalink: /lassociation/La_Bretzsellitude&#xae;/
+permalink: /lassociation/La_Bretzsellitude/
 ---
 
 Avant, cette page s'appellait "L'esprit Bretz'selle". Et en sous-titre, on proposait "l'ensemble des représentations métaphysiques, physiques et sociales qui orientent notre action autour du vélo". Mais on aime l'innovation et nous entretenons avec la langue française le même rapport que nous avons avec la mécanique, et donc maintenant on parle de *bretzsellitude&#xae;*.
